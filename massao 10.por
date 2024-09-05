@@ -16,3 +16,4 @@ programa
 		escreva("\nExemplo de cadeia: ",palavras)
 	}
 }
+escreva("Atualizado por Programador B")
